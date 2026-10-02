@@ -1,0 +1,9 @@
+{
+  "appId": "com.secondbrain.memoryos",
+  "appName": "SECOND BRAIN",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
